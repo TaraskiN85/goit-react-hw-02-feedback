@@ -12,4 +12,4 @@ export const FeedbackOptions = ({ options, onLeaveFeedback }) => {
           </button>)}
       </div>
     )
-  }
+}
